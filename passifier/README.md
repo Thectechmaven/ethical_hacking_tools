@@ -2,4 +2,5 @@ This Python program transforms a user-provided word into a password by replacing
 
 Disclaimer: The author assumes no liability for any data loss, damage, or misuse of the ethical hacking tool in this repository. This program is strictly for educational purposes. Accessing systems without permission is both illegal and unethical.
 
-![image](https://github.com/user-attachments/assets/5163a476-5654-48ea-bd5d-119743768633)
+![passifier](https://github.com/user-attachments/assets/185033e0-85fb-497c-887f-6977f612b33f)
+
