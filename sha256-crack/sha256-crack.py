@@ -17,10 +17,10 @@ ascii += "                                                      										\r\n"
 ascii += "                                                       										\r\n"
 ascii += "   			{>   C Y B E R T E C H   M A V E N   <}=           					\r\n"
 ascii += "                                                       										\r\n"
-ascii += "         		GitHub    : Thectechmaven                      			\r\n"
-ascii += "         		Medium    : @anbuhackops                      			\r\n"
-ascii += "         		Twitter   : @AnbuHackOps                   				\r\n"
-ascii += "         		Instagram : anbuhackops                   				\r\n"
+ascii += "         		       GitHub    : Thectechmaven                      			\r\n"
+ascii += "         		       Medium    : @anbuhackops                      			\r\n"
+ascii += "         		       Twitter   : @AnbuHackOps                   				\r\n"
+ascii += "         		       Instagram : anbuhackops                   				\r\n"
 
 # Add colors
 intro = green + ascii.replace(">", "").replace("<", "") + clear
